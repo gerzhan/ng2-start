@@ -16,4 +16,12 @@
 
     $touch tsconfig.json typings.json    
     $npm i -g typings 
-    $typings install dt~core-js dt~jasmine dt~node --save --global  
+    $typings install dt~core-js dt~jasmine dt~node --save --global
+
+### Установка пакета для паралельного запуска задач
+
+    $npm i concurrently -D     
+
+### Добавление команды запуска сервере 
+
+    $npm run start    
