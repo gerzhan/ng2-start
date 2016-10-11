@@ -25,3 +25,7 @@
 ### Добавление команды запуска сервере 
 
     $npm run start    
+
+### Установка зависимостей для Angular 2
+
+    $npm i -S core-js rxjs@5.0.0-beta.6 reflect-metadata zone.js systemjs   
