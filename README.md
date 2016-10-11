@@ -29,3 +29,9 @@
 ### Установка зависимостей для Angular 2
 
     $npm i -S core-js rxjs@5.0.0-beta.6 reflect-metadata zone.js systemjs   
+
+### Установка Angular 2 модулей-пакетов   
+
+    $npm i -S @angular/core @angular/common @angular/compiler @angular/platform-browser @angular/platform-browser-dynamic  
+
+    $npm i -S @angular/http @angular/forms @angular/router @angular/upgrade
