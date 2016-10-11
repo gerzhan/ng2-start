@@ -35,3 +35,7 @@
     $npm i -S @angular/core @angular/common @angular/compiler @angular/platform-browser @angular/platform-browser-dynamic  
 
     $npm i -S @angular/http @angular/forms @angular/router @angular/upgrade
+
+### Конфигурирование SystemJS ([systemjs.config.js](https://angular.io/docs/ts/latest/quickstart.html))
+
+    $touch systemjs.config.js    
