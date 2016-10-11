@@ -39,3 +39,11 @@
 ### Конфигурирование SystemJS ([systemjs.config.js](https://angular.io/docs/ts/latest/quickstart.html))
 
     $touch systemjs.config.js    
+
+##  Создание приложения
+
+    $mkdir app && cd app
+    $touch app.component.ts
+    $touch app.module.ts
+    $touch main.ts
+
