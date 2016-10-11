@@ -11,3 +11,9 @@
 ## Добавление TypeScript 
 
     $npm i -D typescript typings    
+
+### Добавление конфигураций для TypeScript
+
+    $touch tsconfig.json typings.json    
+    $npm i -g typings 
+    $typings install dt~core-js dt~jasmine dt~node --save --global  
